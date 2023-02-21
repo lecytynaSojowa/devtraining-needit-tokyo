@@ -3,7 +3,7 @@
         <active>true</active>
         <condition_script/>
         <description/>
-        <event_name>x_58872_needit. dueSoonNeedItTasks</event_name>
+        <event_name>x_58872_needit.dueSoonNeedItTasks</event_name>
         <name>Update Due Soon NeedIt Task Priority</name>
         <order>100</order>
         <script><![CDATA[// Set the record priority to 1 - Critical
